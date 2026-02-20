@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "空想ルンバ",
+  "base_artist": "大槻ケンヂと絶望少女達",
+  "createdAt": "2026-02-20T03:42:41.129494Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "空想ルンバ",
+      "artist": "特撮",
+      "has_synced": true,
+      "path": "select/01_空想ルンバ_特撮.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "空想ルンバ",
+      "artist": "大槻ケンヂと絶望少女達(風浦可符香、木津千里、木村カエレ、関内・マリア・太郎、日塔奈美)",
+      "has_synced": true,
+      "path": "select/02_空想ルンバ_大槻ケンヂと絶望少女達(風浦可符香、木津千里、木村カエレ、関内・マリア・太郎、日塔奈美).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "空想ルンバ",
+      "artist": "Tokusatsu",
+      "has_synced": true,
+      "path": "select/03_空想ルンバ_Tokusatsu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "空想ルンバ",
+      "artist": "大槻ケンヂと絶望少女達",
+      "has_synced": false,
+      "path": "select/04_空想ルンバ_大槻ケンヂと絶望少女達.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "空想ルンバ",
+      "artist": "大槻ケンヂ",
+      "has_synced": true,
+      "path": "select/05_空想ルンバ_大槻ケンヂ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "空想ルンバ",
+      "artist": "絶望少女達",
+      "has_synced": true,
+      "path": "select/06_空想ルンバ_絶望少女達.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "空想ルンバ(歌無し)",
+      "artist": "Kenji Ohtsuki & Zetsubou Shoujotachi",
+      "has_synced": false,
+      "path": "select/07_空想ルンバ(歌無し)_Kenji_Ohtsuki_&_Zetsubou_Shoujotachi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "空想ルンバ",
+      "artist": "大槻 ケンヂと絶望少女達",
+      "has_synced": false,
+      "path": "select/pl_01_空想ルンバ_大槻_ケンヂと絶望少女達.txt"
+    }
+  ]
+}
